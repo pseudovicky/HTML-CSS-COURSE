@@ -5,15 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>amazon/AddtoCart</title>
     <style>
-        .Back-click{
-            margin: 80px 0 0 80px ;
+        .Back-click,a{
+            margin: 80px 0 0 40px ;
             color: rgb(22, 148, 157);
             font-size: 24px;
             text-decoration: underline;
             
-        }.Back-click:hover{
+        }
+        
+        .Back-click:hover,a:hover{
             color: rgb(243, 171, 37);
         }
+        
         .Product-Name{
             color: black;
             margin: 40px 0 0 80px ;
@@ -40,7 +43,7 @@
             cursor: pointer;
         }.Cart-button:hover{
             background-color: rgb(236, 198, 9);
-        }.Cart-button:active{
+        }.Cart-button:active,.Buy-button:active{
             opacity: 0.8;
             box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
         }
@@ -56,16 +59,15 @@
             font-family:sans-serif ;
             cursor: pointer;
         }.Buy-button:hover{
-            background-color: rgb(211, 119, 6);
-        }.Buy-button:active{
-            opacity: 0.8;
-            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+            background-color: rgb(172, 110, 35);
         }
+        
     </style>
 </head>
 <body>
     <p class="Back-click" >
-        Back to Amazon
+        <a href="https://www.amazon.in/ref=nav_logo" target="_blank">Back to Amazon</a>
+        
     </p>
 
     <h1 class="Product-Name" >
