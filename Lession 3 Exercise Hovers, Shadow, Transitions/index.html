@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .Subscribe-button{
+            color: white;
+            background-color: rgb(200, 0, 0);
+            border-style: none;
+            height: 40px;
+            width: 100px;
+            border-radius: 3px;
+            cursor: pointer;
+            margin: 8px;
+        }.Subscribe-button:hover{
+            opacity: 0.8;
+        }.Subscribe-button:active{
+            opacity: 0.5;
+        }
+        .Join-button{
+            background-color: white;
+            color: rgb(43, 143, 218);
+            border-color: rgb(43, 143, 218);
+            border-style: solid;
+            border-width: 2px;
+            height: 36px;
+            width: 62px;
+            border-radius: 2px;
+            cursor: pointer;
+        }.Join-button:hover{
+            color: white;
+            background-color:rgb(43, 143, 218) ;
+        }.Join-button:active{
+            opacity: 0.8;
+        }
+        .tweet-button{
+            color: white;
+            background-color: rgb(2, 158, 255);
+            border: none;
+            height: 36px;
+            width: 74px;
+            border-radius: 18px;
+            font-weight: bold;
+            font-size: 15px;
+            cursor: pointer;
+            margin-left: 8px;  
+               
+        }.tweet-button:hover{
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15); 
+        }.tweet-button:active{
+            opacity: 0.8;
+            box-shadow: 3px 5px 3px rgba(0, 0, 0, 0.25); 
+        }
+        .Request-button{
+            color: white;
+            background-color: black;
+            height: 40px;
+            width: 120px;
+            border-style: none;
+            cursor: pointer;
+            margin-left: 8px;
+        }.Request-button:hover{
+            opacity: 0.8; 
+        }.Request-button:active{
+            opacity: 0.8;
+            box-shadow: 4px 6px 4px rgba(0, 0, 0, 0.25); 
+        }
+        .Cart-button{
+            margin-left: 8px;
+            color: black;
+            background-color: rgb(255, 216, 20);
+            border-style: none;
+            width: 200px;
+            height: 40px;
+            border-radius: 25px;
+            font-size: 16px;
+            font-family:sans-serif ;
+            cursor: pointer;
+        }.Cart-button:hover{
+            background-color: rgb(236, 198, 9);
+        }.Cart-button:active{
+            opacity: 0.8;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+        }
+        .Sign-up-button{
+            color: white;
+            background-color: rgb(46, 164, 79);
+            font-size: larger;
+            border-style: none;
+            border-radius: 5px;
+            border-color: none;
+            height: 40px;
+            width: 100px;
+            cursor: pointer;
+            margin-left: 8px;
+        }.Sign-up-button:hover{
+            background-color: rgb(45, 135, 71);
+        }.Sign-up-button:active{
+            opacity: 0.8;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+        }
+        .start-button,.Download-button{
+            margin-left: 8px;
+            height: 40px;
+            width: 135px;
+            border-radius: 5px;
+            font-size: 15px;
+            font-weight: bold;
+        }
+        .start-button{
+            color: white;
+            background-color: rgb(121, 82, 179);
+            border-style: none;
+            cursor: pointer;
+        }.start-button:hover{
+            background-color: rgb(92, 42, 167);
+        }.start-button:active{
+            opacity: 0.9;
+            box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+        }
+        .Download-button{
+            color: rgb(108, 117, 125);
+            border-color: rgb(108, 117, 125);
+            border-style: solid;
+            border-width: 2px;
+            cursor: pointer;
+        }.Download-button:active{
+            color: black;
+            background-color: rgb(119, 127, 134);
+            opacity: 0.8;
+            box-shadow: 3px 5px 3px rgba(0, 0, 0, 0.25); 
+        }
+        .Apply-button{
+            margin: 8px;
+            color: white;
+            background-color: rgb(10, 102, 194);
+            height: 40px;
+            width: 250px;
+            font-weight: bold;
+            font-size: 15px;
+            border-radius: 25px;
+            border-style: none;
+            cursor: pointer;
+        }.Apply-button:hover{
+            background-color: rgb(7, 88, 168);
+        }.Apply-button:active{
+            color: black;
+            background-color: rgb(5, 70, 134);
+            opacity: 0.8;
+            box-shadow: 3px 5px 3px rgba(0, 0, 0, 0.25);
+        }
+        .Save-button{
+            color: rgb(10, 102, 194);
+            height: 40px;
+            width: 100px;
+            font-weight: bold;
+            font-size: 18px;
+            border-radius: 25px;
+            border-color: rgb(10, 102, 194);
+            border-style: solid;
+            cursor: pointer;
+        }.Save-button:hover{
+            background-color: rgb(181, 222, 255);
+        }.Save-button:active{
+            background-color: rgb(5, 70, 134);
+            opacity: 0.8;
+            box-shadow: 3px 5px 3px rgba(0, 0, 0, 0.35);
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+        <button class="Subscribe-button">
+            SUBSCRIBE
+        </button>
+        <button class="Join-button">
+            JOIN
+        </button>
+        <button class="tweet-button">
+            Tweet
+        </button>
+        <button class="Request-button">
+            Request now
+        </button>
+        <button class="Cart-button">
+            Add to Cart
+        </button>
+        <button class="Sign-up-button">
+            Sign up
+        </button>
+        <p>
+            <button class="start-button">
+                Get started
+            </button>
+            <button class="Download-button">
+                Download
+            </button>
+            <button class="Apply-button">
+                Apply on company website
+            </button>
+            <button class="Save-button">
+                Save
+            </button>
+        </p>
+    </div>
+</body>
+</html>
