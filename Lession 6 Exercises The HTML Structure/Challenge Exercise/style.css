@@ -1,0 +1,18 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.model3{
+    margin-top: 40px;
+    margin-left: 80px;
+    font-size: 45px;
+    font-weight: 500 ;
+    margin-bottom: 20px;
+
+}
+.online-delivery{
+    font-size: 20px;
+}
+.Delivery-type{
+    text-decoration: underline;
+}
