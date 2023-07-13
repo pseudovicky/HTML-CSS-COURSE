@@ -1,0 +1,41 @@
+.Name,.Email{
+    padding: 5px;
+    display: block;
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-width: .6px;
+}
+.customer-support-msg{
+    width: 260px;
+    font-size: 20px;
+    display: inline-block;
+}
+.Yes,.No{
+    padding: 3px 8px;
+    margin-top: 0px;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+.google-png{
+    object-position: center;
+    margin-left: 300px;
+    display: block;
+    width: 300px;
+    
+}
+.search-box{
+    background-color: rgb(238, 235, 235);
+    width: 400px;
+    padding: 10px ;
+    text-align: left;
+    margin-left: 250px;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(227, 221, 221);
+    border-width: 2px;
+    box-shadow: 6px 6px 50px grey ;
+}
