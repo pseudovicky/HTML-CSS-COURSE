@@ -1,0 +1,38 @@
+.image1,.image2{
+    width: 350px;
+    border-radius: 8px;
+    
+}
+
+.thumbnail1{
+    margin-right: 20px;
+}
+.thumbnail1,.thumbnail2{
+    margin-top: 100px;
+    display: inline-block;
+    width: 350px;
+    vertical-align: top;
+    
+}
+.video-title{
+    margin-left: 5px;
+    width: 320px;
+    font-size: 18px;
+    font-weight:bold ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 8px;
+}
+.Channel-name{
+    margin-left: 5px;
+    color: grey;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: -10px;
+    
+}
+.Video-stats{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    color:grey;
+
+}
