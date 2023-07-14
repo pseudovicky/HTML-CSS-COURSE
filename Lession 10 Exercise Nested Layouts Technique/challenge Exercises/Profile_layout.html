@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile view Layout</title>
+    <style>
+        .profile-div{
+            background-color: rgb(255, 255, 255);
+            width: 200px;
+            height: 250px;
+            vertical-align: top;
+            display: inline-block;
+            margin: 10px;
+            box-shadow: 3px 3px 30px rgb(225, 217, 217);
+        }
+        .profile-photo{
+            width: 100%;
+            height: 58%;
+        }
+        .name{
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 5px 8px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .profile-img{
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-left: 8px;
+            
+            
+        }
+        .mutual-friends{
+            color: rgb(171, 169, 169);
+            margin: 5px 10px ;
+            
+        }
+        button{
+            background-color: rgb(64, 157, 224);
+            border: none;
+            color: white;
+            padding: 5px 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            font-weight: bold;
+            margin: 8px;
+        }
+        .profile-img-friends{
+            display: flex;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="profile-div" >
+        <img src="gettyimages-113243874_custom-de747f687865d9771d95b971e3b40bf3d61c01b9-s1100-c50.jpg" alt="image" class="profile-photo">
+        <p class="name">
+            Oliver
+        </p>
+        <div class="profile-img-friends">
+            <img src="gettyimages-113243874_custom-de747f687865d9771d95b971e3b40bf3d61c01b9-s1100-c50.jpg" alt="image" class="profile-img">
+            <p class="mutual-friends">
+                2 mutual friends
+            </p>
+        </div> 
+            <button >
+                Add Friend
+            </button>
+    </div>
+
+    <div class="profile-div" >
+        <img src="cat_Instagram_captions_aka_cat_sionsthat_are_the_cats_meow_bella_bucchiotti_2.jpg" alt="image" class="profile-photo">
+        <p class="name">
+            Mimi
+        </p>
+        <div class="profile-img-friends">
+            <img src="cat_Instagram_captions_aka_cat_sionsthat_are_the_cats_meow_bella_bucchiotti_2.jpg" alt="image" class="profile-img">
+            <p class="mutual-friends">
+                3 mutual friends
+            </p>
+        </div> 
+            <button >
+                Add Friend
+            </button>
+    </div>
+    
+    <div class="profile-div" >
+        <img src="English-Bulldog-48c5f06898d345c79ad260cf98e05331.jpg" alt="image" class="profile-photo">
+        <p class="name">
+            Rex
+        </p>
+        <div class="profile-img-friends">
+            <img src="English-Bulldog-48c5f06898d345c79ad260cf98e05331.jpg" alt="image" class="profile-img">
+            <p class="mutual-friends">
+                4 mutual friends
+            </p>
+        </div> 
+            <button >
+                Add Friend
+            </button>
+    </div>
+</body>
+</html>
