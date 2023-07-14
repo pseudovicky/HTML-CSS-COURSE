@@ -1,0 +1,39 @@
+.div1{
+    background-color: rgb(255, 255, 255);
+}
+.div2{
+    background-color: rgb(255, 255, 255);
+}
+.div3{
+    background-color: rgb(255, 255, 255);
+}
+.div-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+}
+img{
+    width: 100%;
+    height: 60%;
+    
+}
+.channel-image-div{
+   
+   grid-template-columns: 20% 20%;
+   background-color: rgb(255, 255, 255);
+}
+.channel-image{
+    border-radius: 30px;
+    
+}
+.video-data-div{
+    background-color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 20% 1fr;
+    margin: 0;
+}
+.video-title{
+    margin-left: 2px;
+    font-size: 6.8px;
+    width: 110px;
+}
