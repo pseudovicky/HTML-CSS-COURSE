@@ -4,7 +4,7 @@
 
 # Youtube Clone
 
-## Project Link [Click to open Website](https://stackritesh.me/youtube-clone/) to see it Live.
+## Project Link [Click to open Website](https://pseudovicky.github.io/YouTube-Clone/) to see it Live.
 
 I'm gonna add some of my basic practices with HTML & CSS and in the end I'll be making a Responsive Youtube Clone Webpage.
 
@@ -14,36 +14,36 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 
 # Details
 
-[1st Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2001) => Anchor tag & Button tag.
+[1st Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%201%20HTML%20Basics) => Anchor tag & Button tag.
 
-[2nd Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2002) => Very basic styling to Buttons.
+[2nd Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%202%20CSS%20Basics) => Very basic styling to Buttons.
 
-[3rd Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2003) => Used Transition, Hover & Shadow effect on Buttons.
+[3rd Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%203%20Hovers%2C%20Shadow%2C%20Transitions) => Used Transition, Hover & Shadow effect on Buttons.
 
-[4th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2004) => Learnt about CSS Box Model.
+[4th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%204%20Box%20Model-Margin-Padding) => Learnt about CSS Box Model.
 
-[5th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2005) => Learnt about text styling, text elements like span, strong, etc.
+[5th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%205%20Text%20Style) => Learnt about text styling, text elements like span, strong, etc.
 
-[6th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2006) => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
+[6th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%206%20The%20HTML%20Structure) => Learnt about the Structure of HTML, it's features & Benefits, Seperated all the styles from the HTML from previous Lessons and placed them into an External Stylesheet CSS file.
 
-[7th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2007) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
+[7th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%207%20Image%20And%20Text%20Boxes) => Learnt about the Images and its styling. we also learnt about Search Box and its Properties.
 
-[8th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2008) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
+[8th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%208%20Display%20Block%20And%20Inline%20Block) => Learnt about the various types of HTML elements according to display properties like _block_, _inline-block_, _inline_.
 
-[9th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2009) => Learnt about the div elements & containers.
+[9th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%209%20The%20%3Cdiv%3E%20element) => Learnt about the div elements & containers.
 
-[10th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2010) => Learnt about the Nested Layouts Technique.
+[10th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2010%20Nested%20Layouts%20Technique) => Learnt about the Nested Layouts Technique.
 
-[11th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2011) => Learnt about the Grid Layout & its properties.
+[11th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2011%20CSS%20Grid) => Learnt about the Grid Layout & its properties.
 
-[12th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2012) => Learnt about the Flexbox & its properties.
+[12th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2012%20FlexBox) => Learnt about the Flexbox & its properties.
 
-[13th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2013) => Learnt about the Nested Flexbox.
+[13th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2013%20Nested%20FlexBox) => Learnt about the Nested Flexbox.
 
-[14th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2014) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
+[14th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2014%20CSS%20Position) => Learnt about the CSS Position fixed & its properties & use in making sidebars and navbars.
 
-[15th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2015) => Learnt about the Position Absolute & Relative Concepts.
+[15th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2015%20Position%20Absolute%20and%20Position%20Relative) => Learnt about the Position Absolute & Relative Concepts.
 
-[16th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2016) => Finished the YouTube Clone. 
+[16th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2016%20Finish%20the%20project) => Finished the YouTube Clone. 
 
-[17th Exercise](https://github.com/git-ritesh/youtube-clone/tree/master/intro-to-html/Lesson%2017) => Learnt about some more CSS Features. 
+[17th Exercise](https://github.com/pseudovicky/YouTube-Clone) => Learnt about some more CSS Features. 
