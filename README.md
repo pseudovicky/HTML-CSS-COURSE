@@ -46,4 +46,4 @@ This is the tutorial I am following for practising. Click on the Image to Open t
 
 [16th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Lession%2016%20Finish%20the%20project) => Finished the YouTube Clone. 
 
-[17th Exercise](https://github.com/pseudovicky/YouTube-Clone) => Learnt about some more CSS Features. 
+[17th Exercise](https://github.com/pseudovicky/HTML-CSS-COURSE/tree/main/Youtube%20Clone) => Learnt about some more CSS Features. 
